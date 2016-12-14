@@ -1,4 +1,4 @@
-﻿namespace JobLogger.BusinessComponent
+﻿namespace JobLogger.BusinessComponent.LogMessageSeverity
 {
     public enum LogSeverity
     {

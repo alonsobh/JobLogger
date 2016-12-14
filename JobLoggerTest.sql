@@ -1,0 +1,4 @@
+﻿CREATE TABLE Log (
+    Message	VARCHAR (MAX)	NOT NULL,
+    Type	INT	NOT NULL
+)

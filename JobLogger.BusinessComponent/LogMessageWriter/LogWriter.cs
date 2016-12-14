@@ -1,4 +1,6 @@
-﻿namespace JobLogger.BusinessComponent.LogMessageWriter
+﻿using JobLogger.BusinessComponent.LogMessageSeverity;
+
+namespace JobLogger.BusinessComponent.LogMessageWriter
 {
     public interface LogWriter
     {

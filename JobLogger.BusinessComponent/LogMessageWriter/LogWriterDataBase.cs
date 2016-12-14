@@ -1,4 +1,5 @@
 ﻿using System;
+using JobLogger.BusinessComponent.LogMessageSeverity;
 
 namespace JobLogger.BusinessComponent.LogMessageWriter
 {
